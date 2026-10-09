@@ -1,0 +1,12 @@
+hi im adding git command here 
+
+once you create ec2 instance 
+clone the repo from git hub 
+install git : yum install git -y
+git clone http link from github
+touch index.html dockerfile gcp aws
+git add
+git commit -m "specify the changes which made in it"
+git push origin main
+userid git profile id
+password paste genrated from -- Go to click on git profile icon - go to setting - go to devoper option - click on genrate tokens - click genrate classic token - name it , check mark first option , click on genrate token copy and paste in password 
